@@ -1,7 +1,10 @@
-API EM DIA é um aplicativo web que permite testar APIs de diversos tipos de forma gratuita e profissional.
+# API EM DIA
 
-Desenvolvido por Guilherme Soares Marciel.
+O API EM DIA é um aplicativo web que permite testar APIs de diversos tipos de forma gratuita e profissional.
 
-A edição, modificação ou redistribuição deste código-fonte sem autorização prévia não é permitida.
+**Desenvolvido por:** Guilherme Soares Marciel.
 
-# https://guilhermesoaresmarciel.github.io/API-EM-DIA/
+A edição, a modificação ou a redistribuição deste código-fonte sem autorização prévia do desenvolvedor não são permitidas.
+
+**Acesse o projeto:**
+https://guilhermesoaresmarciel.github.io/API-EM-DIA/
